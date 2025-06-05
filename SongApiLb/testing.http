@@ -1,0 +1,53 @@
+@hostname = http://localhost
+
+@port = 5005
+
+@host = {{hostname}}:{{port}}
+
+@songId = 1
+
+###
+
+GET {{host}}/api/databases
+
+###
+
+GET {{host}}/api/songs
+
+###
+
+GET {{host}}/api/songs/{{songId}}
+
+###
+
+POST {{host}}/api/songs 
+Content-Type: application/json
+
+{
+    "id": "1",
+    "title": "American Wedding",
+    "year": 2011,
+    "genre": "R&B",
+    "artists": [
+        "Frank Ocean"
+    ]
+}
+
+###
+
+PUT {{host}}/api/songs/{{songId}} 
+Content-Type: application/json
+
+{
+    "id": "1",
+    "title": "Strawberry Swing",
+    "year": 2011,
+    "genre": "R&B",
+    "artists": [
+        "Frank Ocean"
+    ]
+}
+
+###
+
+DELETE {{host}}/api/songs/{{songId}}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|c:\\users\\andrin sutter\\downloads\\m365p3lb 1\\m365p3lb\\songapilb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|solutionrelative:songapilb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|c:\\users\\andrin sutter\\downloads\\m365p3lb 1\\m365p3lb\\songapilb\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|solutionrelative:songapilb\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|c:\\users\\andrin sutter\\downloads\\m365p3lb 1\\m365p3lb\\songapilb\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|solutionrelative:songapilb\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|c:\\users\\andrin sutter\\downloads\\m365p3lb 1\\m365p3lb\\songapilb\\services\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|solutionrelative:songapilb\\services\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|c:\\users\\andrin sutter\\downloads\\m365p3lb 1\\m365p3lb\\songapilb\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796A05E1-DADC-46E9-8DDD-7E5C57C46DAD}|SongApiLb\\SongApiLb.csproj|solutionrelative:songapilb\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Program.cs",
+              "RelativeDocumentMoniker": "SongApiLb\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Program.cs",
+              "RelativeToolTip": "SongApiLb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:11:48.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Settings\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "SongApiLb\\Settings\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Settings\\DatabaseSettings.cs",
+              "RelativeToolTip": "SongApiLb\\Settings\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:11:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Services\\SongService.cs",
+              "RelativeDocumentMoniker": "SongApiLb\\Services\\SongService.cs",
+              "ToolTip": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Services\\SongService.cs",
+              "RelativeToolTip": "SongApiLb\\Services\\SongService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:11:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISongService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Services\\ISongService.cs",
+              "RelativeDocumentMoniker": "SongApiLb\\Services\\ISongService.cs",
+              "ToolTip": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Services\\ISongService.cs",
+              "RelativeToolTip": "SongApiLb\\Services\\ISongService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:11:35.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "SongApiLb\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\Andrin Sutter\\Downloads\\M365P3LB 1\\M365P3LB\\SongApiLb\\Models\\Song.cs",
+              "RelativeToolTip": "SongApiLb\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:11:32.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
